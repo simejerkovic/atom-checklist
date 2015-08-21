@@ -16,3 +16,7 @@ This is a basic checklist I follow to set up Atom on a new development environme
 - Install [Spacegray UI theme](https://github.com/cannikin/spacegray-dark-ui)
 - Install [Spacegray Ocean dark color syntax](https://github.com/carloe/spacegray-base16-ocean-dark)
 - Install [Ocean dark color syntax](https://github.com/robbschiller/base16-ocean-dark)
+
+### 4. Disable Wrap Guide vertical line
+- Go in Atom's **Settings** page, through **packages** section. (ctrl+,)
+- Search for "*wrap-guide*" and Disable it.
