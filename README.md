@@ -15,7 +15,7 @@ This is a basic checklist I follow to set up Atom on a new development environme
 ### 3. Atom Plugins
 - Install [Emmet support for Atom](https://github.com/emmetio/emmet-atom)
 - Install [A Color Picker for Atom](https://github.com/thomaslindstrom/color-picker)
-- 
+
 ### 4. Themes and UI syntax color scheme
 - Install [Spacegray UI theme](https://github.com/cannikin/spacegray-dark-ui)
 - Install [Spacegray Ocean dark color syntax](https://github.com/carloe/spacegray-base16-ocean-dark)
