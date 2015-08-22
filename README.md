@@ -19,6 +19,10 @@ This is a basic checklist I follow to set up Atom on a new development environme
 - Install [Seti UI theme](https://github.com/jesseweed/seti-ui)
 - Install [Seti Syntax](https://github.com/jesseweed/seti-syntax)
 
-### 4. Disable Wrap Guide vertical line
+### 4. Plugins
+- Install [Emmet support for Atom](https://github.com/emmetio/emmet-atom)
+
+### 5. Disable Wrap Guide vertical line
 - Go in Atom's **Settings** page, through **packages** section. (ctrl+,)
 - Search for "*wrap-guide*" and Disable it.
+
