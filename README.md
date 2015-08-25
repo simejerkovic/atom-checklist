@@ -1,5 +1,5 @@
-# Atom checklist
-This is a basic checklist I follow to set up Atom on a new development environment.  
+# Atom editor checklist
+This is a basic checklist I follow to set up Atom editor on a new development environment.  
 
 ## Checklist
 
