@@ -37,3 +37,5 @@ This is a basic checklist I follow to set up Atom editor on a new development en
 - Go in Atom's **Settings** page, through **packages** section. (ctrl+,)
 - Search for "*wrap-guide*" and Disable it.
 
+### 6. Dot files
+- Place all dotfiles at the root of your project or inside user's HOME directory
