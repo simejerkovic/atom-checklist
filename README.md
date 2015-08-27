@@ -15,14 +15,15 @@ This is a basic checklist I follow to set up Atom editor on a new development en
 
 
 ### 3. Essential Atom Plugins
-- Install [Emmet support for Atom](https://github.com/emmetio/emmet-atom)
-- Install [A Color Picker for Atom](https://github.com/thomaslindstrom/color-picker)
-- Install [Minimap package](https://atom.io/packages/minimap)
-- Install [Atom Beautify](https://atom.io/packages/atom-beautify)
-- Install [Linter](https://atom.io/packages/linter)
-- Install [JavaScript Snippets for Atom](https://atom.io/packages/javascript-snippets)
-- Install [CSScomb](https://atom.io/packages/atom-css-comb)
+- Install [Sync Settings](https://atom.io/packages/sync-settings)
 - Install [Git Plus](https://atom.io/packages/git-plus)
+- Install [Emmet support for Atom](https://github.com/emmetio/emmet-atom)
+- Install [JavaScript Snippets for Atom](https://atom.io/packages/javascript-snippets)
+- Install [Atom Beautify](https://atom.io/packages/atom-beautify)
+- Install [CSScomb](https://atom.io/packages/atom-css-comb)
+- Install [Linter](https://atom.io/packages/linter)
+- Install [Minimap package](https://atom.io/packages/minimap)
+- Install [A Color Picker for Atom](https://github.com/thomaslindstrom/color-picker)
 
 
 ### 4. Themes and UI syntax color scheme
