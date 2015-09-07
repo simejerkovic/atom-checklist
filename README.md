@@ -22,6 +22,7 @@ This is a basic checklist I follow to set up Atom editor on a new development en
 - Install [Atom Beautify](https://atom.io/packages/atom-beautify)
 - Install [CSScomb](https://atom.io/packages/atom-css-comb)
 - Install [Linter](https://atom.io/packages/linter)
+- Install [Linter ESLint](https://atom.io/packages/linter-eslint)
 - Install [Minimap package](https://atom.io/packages/minimap)
 - Install [A Color Picker for Atom](https://github.com/thomaslindstrom/color-picker)
 
