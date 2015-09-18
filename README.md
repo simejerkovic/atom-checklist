@@ -25,7 +25,7 @@ This is a basic checklist I follow to set up Atom editor on a new development en
 - Install [Linter ESLint](https://atom.io/packages/linter-eslint)
 - Install [Minimap package](https://atom.io/packages/minimap)
 - Install [A Color Picker for Atom](https://github.com/thomaslindstrom/color-picker)
-
+- Install [.NET Language package](https://github.com/jbalboni/atom-language-aspx)
 
 ### 4. Themes and UI syntax color scheme
 - Install [Seti UI theme](https://github.com/jesseweed/seti-ui) :ok_hand:
