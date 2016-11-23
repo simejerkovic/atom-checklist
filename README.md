@@ -7,7 +7,7 @@ This is a basic checklist I follow to set up Atom editor on a new development en
 - Install [Atom](https://atom.io/) editor
 
 
-### 2. Fix Keybinding for Croatian keyboard
+### 2. Fix Keybinding for Croatian keyboard (Deprecated)
 - Go in Atom's **Settings** page, through **packages** section. (ctrl+,)
 - Under **Community Packages** search for "*keyboard-localization*" and Install it.
 - Inside Atom's packages management, click **Settings**
@@ -16,6 +16,7 @@ This is a basic checklist I follow to set up Atom editor on a new development en
 
 ### 3. Essential Atom Plugins
 - Install [Sync Settings](https://atom.io/packages/sync-settings)
+- Install [EditorConfig](https://atom.io/packages/editorconfig)
 - Install [Git Plus](https://atom.io/packages/git-plus)
 - Install [Emmet support for Atom](https://github.com/emmetio/emmet-atom)
 - Install [JavaScript Snippets for Atom](https://atom.io/packages/javascript-snippets)
@@ -28,6 +29,7 @@ This is a basic checklist I follow to set up Atom editor on a new development en
 - Install [.NET Language package](https://github.com/jbalboni/atom-language-aspx)
 - Install [Bottom dock](https://github.com/benjaminRomano/bottom-dock)
 - Install [Gulp manager package](https://github.com/benjaminRomano/gulp-manager)
+
 
 ### 4. Themes and UI syntax color scheme
 - Install [Seti UI theme](https://github.com/jesseweed/seti-ui) :ok_hand:
